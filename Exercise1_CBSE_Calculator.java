@@ -2,7 +2,7 @@ package com.company;
 
 import java.util.Scanner;
 
-public class Exercise1 {
+public class Exercise1_CBSE_Calculator {
 
     public static void main(String[] args) {
 	// write your code here
